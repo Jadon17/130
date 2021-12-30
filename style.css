@@ -1,0 +1,67 @@
+body {
+    background-size: cover;
+    
+}
+
+.heading {
+    font-family: 'Lobster Two';
+    font-size: 30px;
+    margin-top: 0px; 
+    color:greenyellow;
+
+
+}
+
+.volume_div {
+    float: left;
+    
+}
+
+.speed_div {
+    float: right;
+}
+
+.image {
+    border-radius: 100px;
+    width: 200px;
+}
+
+h2 {
+    font-size: 18px;
+    color: white;
+    font-weight: 700;
+    font-family: cursive;
+    background-color:seagreen;
+    padding: 10px 10px 10px 10px;
+    margin: 15px;
+    border-radius: 70px;
+}
+
+button{
+    font-family: 'Bebas Neue';
+    font-size: 23px;
+    background-color: lawngreen;
+    color:steelblue;
+    width: 150px;
+    height: 70px;
+
+    border-radius: 20px;
+}
+
+.icon {
+    width: 50px;
+}
+
+.note{
+    font-size: 20px;
+    font-family: 'Bookman old Style';
+    color: white;
+}
+
+button:hover {
+    background-color:magenta;
+}
+
+canvas {
+    border: limegreen groove 3px;
+}
